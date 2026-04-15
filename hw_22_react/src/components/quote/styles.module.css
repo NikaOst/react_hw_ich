@@ -1,0 +1,13 @@
+.quote {
+  margin-left: 2rem;
+}
+.author {
+  margin-left: 50%;
+}
+button {
+  padding: 10px;
+  background-color: rgb(52, 52, 131);
+  color: aliceblue;
+  border: none;
+  border-radius: 10px;
+}
