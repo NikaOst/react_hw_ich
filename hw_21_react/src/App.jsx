@@ -5,6 +5,7 @@ import Result from './components/result';
 function App() {
   return (
     <div>
+      <h1>Questionnaire</h1>
       <Question />
       <Result />
     </div>
